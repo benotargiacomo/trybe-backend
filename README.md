@@ -1,7 +1,7 @@
 ### Projetos de BACK-END
 
 - [x] [Docker To Do List](#docker-to-do-list)
-- [ ] [All For One](#all-for-one)
+- [x] [All For One](#all-for-one)
 - [ ] [One for All](#one-for-all)
 - [ ] [Talker Manager](#talker-manager)
 - [ ] [Store Manager](#store-manager)
@@ -28,7 +28,7 @@ Utilização de containers para aplicações de frontend, backend e testes, cria
 
 ---
 
-<!-- ### All For One
+### All For One
 
 
 
@@ -38,7 +38,7 @@ Utilização de containers para aplicações de frontend, backend e testes, cria
   -
 
 ---
-
+<!-- 
 ### One for All
 
 
