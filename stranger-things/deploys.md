@@ -1,17 +1,9 @@
 # BACKEND
 
-  - [Up][up]
-  - [Down][down]
+  - [Up](https://benotargiacomo-up.herokuapp.com/)
+  - [Down](https://benotargiacomo-dw.herokuapp.com/)
 
 # FRONTEND
 
-  - [Desenvolvimento][dev]
-  - [Produção][prod]
-
-
-
-<!-- APPs -->
-[up][https://benotargiacomo-up.herokuapp.com/]
-[down][https://benotargiacomo-dw.herokuapp.com/]
-[dev][https://benotargiacomo-ft.herokuapp.com/]
-[prod][https://benotargiacomo-pd.herokuapp.com/]
+  - [Desenvolvimento](https://benotargiacomo-ft.herokuapp.com/)
+  - [Produção](https://benotargiacomo-pd.herokuapp.com/)
