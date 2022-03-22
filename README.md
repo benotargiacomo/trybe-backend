@@ -2,12 +2,12 @@
 
 - [x] [Docker To Do List](#docker-to-do-list)
 - [x] [All For One](#all-for-one)
-- [ ] [One for All](#one-for-all)
-- [ ] [Talker Manager](#talker-manager)
-- [ ] [Store Manager](#store-manager)
-- [ ] [Blogs API](#blogs-api)
-- [ ] [Stranger Things](#stranger-things)
-- [ ] [Trybe Smith](#trybe-smith)
+- [x] [One for All](#one-for-all)
+- [x] [Talker Manager](#talker-manager)
+- [x] [Store Manager](#store-manager)
+- [x] [Blogs API](#blogs-api)
+- [x] [Stranger Things](#stranger-things)
+- [x] [Trybe Smith](#trybe-smith)
 - [ ] [Trybers and Dragons](#trybers-and-dragons)
 - [ ] [Trybe Futebol Clube](#trybe-futebol-clube)
 - [ ] [Commerce](#commerce)
@@ -27,7 +27,7 @@ Utilização de containers para aplicações de frontend, backend e testes, cria
   - Orquestrar containers utilizando docker compose.
 
 ---
-
+<!--
 ### All For One
 
 
@@ -38,7 +38,7 @@ Utilização de containers para aplicações de frontend, backend e testes, cria
   -
 
 ---
-<!-- 
+
 ### One for All
 
 
