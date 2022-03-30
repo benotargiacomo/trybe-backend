@@ -8,7 +8,7 @@
 - [x] [Blogs API](#blogs-api)
 - [x] [Stranger Things](#stranger-things)
 - [x] [Trybe Smith](#trybe-smith)
-- [ ] [Trybers and Dragons](#trybers-and-dragons)
+- [x] [Trybers and Dragons](#trybers-and-dragons)
 - [ ] [Trybe Futebol Clube](#trybe-futebol-clube)
 - [ ] [Commerce](#commerce)
 - [ ] [Delivery APP](#delivery-app)
