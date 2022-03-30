@@ -14,7 +14,7 @@
 - [ ] [Delivery APP](#delivery-app)
 
 ---
-
+<!--
 ### Docker To Do List
 
 Utilização de containers para aplicações de frontend, backend e testes, criação de conexão entre as aplicação e orquestramento do seu funcionamento.
@@ -27,7 +27,7 @@ Utilização de containers para aplicações de frontend, backend e testes, cria
   - Orquestrar containers utilizando docker compose.
 
 ---
-<!--
+
 ### All For One
 
 
