@@ -14,6 +14,21 @@
 - [ ] [Delivery APP](#delivery-app)
 
 ---
+
+- Docker To Do List: Utilização de containers para aplicações de frontend, backend e testes, criação de conexão entre as aplicação e orquestramento do seu funcionamento.
+
+- All For One e One for All: projetos para a prática de conceitos de bancos de dados e SQL, modelagem, querys, entidades, atributos e relacionamentos.
+
+- Talker Manager: desenvolvimento de uma API com endpoints para criação, atualização, exclusão e consulta de palestrantes.
+
+- Store Manager: criação de uma API para gerenciamento(CRUD) de produtos e vendas utilizando a arquitetura MSC.
+
+- Blogs API: arquitetura e desenvolvimento de uma API para gerenciamento(CRUD) de usuários, posts e categorias de um BLOG seguindo os princípios REST.
+
+- Stranger Things: realização do deploy/publicação de aplicações utilizando o Docker e Heroku.
+
+- Trybe Smith: desenvolvimento de uma API para gerenciamento(CRUD) de itens medievais.
+
 <!--
 ### Docker To Do List
 
