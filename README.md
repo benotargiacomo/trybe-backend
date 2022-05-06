@@ -9,7 +9,7 @@
 - [x] [Stranger Things](#stranger-things)
 - [x] [Trybe Smith](#trybe-smith)
 - [x] [Trybers and Dragons](#trybers-and-dragons)
-- [ ] [Trybe Futebol Clube](#trybe-futebol-clube)
+- [x] [Trybe Futebol Clube](#trybe-futebol-clube)
 - [ ] [Commerce](#commerce)
 - [ ] [Delivery APP](#delivery-app)
 
@@ -28,6 +28,8 @@
 - Stranger Things: realização do deploy/publicação de aplicações utilizando o Docker e Heroku.
 
 - Trybe Smith: desenvolvimento de uma API para gerenciamento(CRUD) de itens medievais.
+
+- Trybe Futebol Clube: criação de uma API para gerenciamento de partidas de futebol utilizando POO e princípios do SOLID.
 
 <!--
 ### Docker To Do List
