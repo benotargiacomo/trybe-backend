@@ -12,7 +12,7 @@
 - [x] [Trybe Futebol Clube](#trybe-futebol-clube)
 - [x] [Commerce](#commerce)
 - [x] [Car Shop](#carshop)
-- [ ] [Delivery APP](#delivery-app)
+- [x] [Delivery APP](#delivery-app)
 
 ---
 
@@ -31,6 +31,12 @@
 - Trybe Smith: desenvolvimento de uma API para gerenciamento(CRUD) de itens medievais.
 
 - Trybe Futebol Clube: criação de uma API para gerenciamento de partidas de futebol utilizando POO e princípios do SOLID.
+
+- Commerce: projeto para a prática de conceitos de bancos de dados noSQL e MongoDB.
+
+- Car Shop: construção de uma API(CRUD) para gerenciamento de uma concessionária de veículos aplicando POO e princípios do SOLID.
+
+- Delivery App: 
 
 <!--
 ### Docker To Do List
