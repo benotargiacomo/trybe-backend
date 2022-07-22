@@ -36,7 +36,7 @@
 
 - Car Shop: construção de uma API(CRUD) para gerenciamento de uma concessionária de veículos aplicando POO e princípios do SOLID.
 
-- Delivery App: 
+- Delivery App: utilizar todos os conhecimentos acumulados para o desenvolvimento de um app de delivery(back-end e front-end). **Fiz parte do time de front-end.**
 
 <!--
 ### Docker To Do List
@@ -144,6 +144,16 @@ Utilização de containers para aplicações de frontend, backend e testes, cria
 ---
 
 ### Commerce
+
+
+**Habilidades**
+  
+  -
+  -
+
+---
+
+### Car Shop
 
 
 **Habilidades**
