@@ -16,159 +16,140 @@
 
 ---
 
-- Docker To Do List: Utilização de containers para aplicações de frontend, backend e testes, criação de conexão entre as aplicação e orquestramento do seu funcionamento.
 
-- All For One e One for All: projetos para a prática de conceitos de bancos de dados e SQL, modelagem, querys, entidades, atributos e relacionamentos.
-
-- Talker Manager: desenvolvimento de uma API com endpoints para criação, atualização, exclusão e consulta de palestrantes.
-
-- Store Manager: criação de uma API para gerenciamento(CRUD) de produtos e vendas utilizando a arquitetura MSC.
-
-- Blogs API: arquitetura e desenvolvimento de uma API para gerenciamento(CRUD) de usuários, posts e categorias de um BLOG seguindo os princípios REST.
-
-- Stranger Things: realização do deploy/publicação de aplicações utilizando o Docker e Heroku.
-
-- Trybe Smith: desenvolvimento de uma API para gerenciamento(CRUD) de itens medievais.
-
-- Trybe Futebol Clube: criação de uma API para gerenciamento de partidas de futebol utilizando POO e princípios do SOLID.
-
-- Commerce: projeto para a prática de conceitos de bancos de dados noSQL e MongoDB.
-
-- Car Shop: construção de uma API(CRUD) para gerenciamento de uma concessionária de veículos aplicando POO e princípios do SOLID.
-
-- Delivery App: utilizar todos os conhecimentos acumulados para o desenvolvimento de um app de delivery(back-end e front-end). **Fiz parte do time de front-end.**
-
-<!--
 ### Docker To Do List
 
 Utilização de containers para aplicações de frontend, backend e testes, criação de conexão entre as aplicação e orquestramento do seu funcionamento.
   
-**Habilidades**
+<!-- **Habilidades**
 
   - Utilização e manipulação de containers utilizando a CLI.
   - Manipulação e criação de imagens no Docker.
   - Criação e comunicação de containers para aplicações front-end, back-end e de testes.
-  - Orquestrar containers utilizando docker compose.
+  - Orquestrar containers utilizando docker compose. -->
 
 ---
 
-### All For One
+### One for All e All For One
 
+Projetos para a prática de conceitos de bancos de dados e SQL, modelagem, querys, entidades, atributos e relacionamentos.
 
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### One for All
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Talker Manager
-
-
-**Habilidades**
-  
-  -
-  -
-  
----
-
-### Store Manager
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Blogs API
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Stranger Things
-
-
-**Habilidades**
-  
-  -
-  -
-  
----
-
-### Trybe Smith
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Trybers and Dragons
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Trybe Futebol Clube
-
-
-**Habilidades**
-  
-  -
-  -
-  
----
-
-### Commerce
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Car Shop
-
-
-**Habilidades**
-  
-  -
-  -
-
----
-
-### Delivery APP
-
-
-**Habilidades**
+<!-- **Habilidades**
   
   -
   -
 
 --- -->
+
+### Talker Manager
+
+Desenvolvimento de uma API com endpoints para criação, atualização, exclusão e consulta de palestrantes.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+  
+---
+
+### Store Manager
+
+Criação de uma API para gerenciamento(CRUD) de produtos e vendas utilizando a arquitetura MSC.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+---
+
+### Blogs API
+
+Arquitetura e desenvolvimento de uma API para gerenciamento(CRUD) de usuários, posts e categorias de um BLOG seguindo os princípios REST.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+---
+
+### Stranger Things
+
+Realização do deploy/publicação de aplicações utilizando o Docker e Heroku.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+  
+---
+
+### Trybe Smith
+
+Desenvolvimento de uma API para gerenciamento(CRUD) de itens medievais.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+---
+
+### Trybers and Dragons
+
+Aplicação dos princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de RPG (Role Playing Game).
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+---
+
+### Trybe Futebol Clube
+
+Criação de uma API para gerenciamento de partidas de futebol utilizando POO e princípios do SOLID.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+  
+---
+
+### Commerce
+
+Projeto para a prática de conceitos de bancos de dados noSQL e MongoDB.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+---
+
+### Car Shop
+
+Construção de uma API(CRUD) para gerenciamento de uma concessionária de veículos aplicando POO e princípios do SOLID.
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+---
+
+### Delivery APP
+
+Utilizar todos os conhecimentos acumulados para o desenvolvimento de um app de delivery (back-end e front-end).
+
+
+<!-- **Habilidades**
+  
+  -
+  - -->
+
+Grupo: Alex Cubas, Bernardo Notargiacomo, Leandro Henrique Soares, Matheus Burthon e Moisés Figueira.
+
+---
