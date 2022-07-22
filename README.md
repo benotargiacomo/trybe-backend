@@ -10,7 +10,8 @@
 - [x] [Trybe Smith](#trybe-smith)
 - [x] [Trybers and Dragons](#trybers-and-dragons)
 - [x] [Trybe Futebol Clube](#trybe-futebol-clube)
-- [ ] [Commerce](#commerce)
+- [x] [Commerce](#commerce)
+- [x] [Car Shop](#carshop)
 - [ ] [Delivery APP](#delivery-app)
 
 ---
